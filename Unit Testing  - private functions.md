@@ -1,4 +1,4 @@
-# Unit Testing private function
+# Unit Test:  private functions
 ## Problem:
 > We want test the __process__ fuction but we **can't** its is a **private** function
 
